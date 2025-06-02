@@ -13,7 +13,7 @@ from pydantic import BaseModel, Field
 from pydantic_ai import Agent
 from pydantic_ai.models.gemini import GeminiModel
 from pydantic_ai.providers.google_gla import GoogleGLAProvider
-from dotenv import load_dotenv
+from dotenv import load_dotenv # type: ignore
 
 # Load environment variables
 load_dotenv()
