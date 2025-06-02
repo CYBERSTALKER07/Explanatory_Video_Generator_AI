@@ -1,4 +1,4 @@
-#!/Users/shakhzod/Explanatory_Video_Generator_AI-1/.venv/bin/python3.11
+#!/Users/shakhzod/Explanatory_Video_Generator_AI-1/.venv/bin/python3.13
 # -*- coding: utf-8 -*-
 import re
 import sys
